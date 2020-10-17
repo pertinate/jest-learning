@@ -1,0 +1,26 @@
+{
+  "name": "jest-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pertinate/jest-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pertinate/jest-learning/issues"
+  },
+  "homepage": "https://github.com/pertinate/jest-learning#readme",
+  "devDependencies": {
+    "jest": "^26.5.3",
+    "@types/jest": "^26.0.14"
+  },
+  "dependencies": {
+  }
+}
